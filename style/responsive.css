@@ -1,0 +1,43 @@
+@media screen and (max-width: 600px) {
+    header{
+        flex-direction: column;
+    }
+    .first-section{
+        max-width: 100%;
+        height: auto;
+        padding: 20px;
+        margin: auto;
+
+    }
+    #first-sec-title, #first-sec-para{
+        padding: 20px;
+    }
+    .input-boxs{
+        display: block;
+        margin: 5px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .first-button{
+        margin-top: 3px;
+    }
+    .input-boxs input{
+        margin: 5px;
+    }
+    .second-section{
+        flex-direction: column;
+        padding: 20px;
+        margin: 0px;
+
+
+    }
+    .second-left{
+        padding-bottom: 20px;
+    }
+    header{
+        display: none;
+    }
+
+    
+}
