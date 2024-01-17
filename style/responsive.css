@@ -38,6 +38,11 @@
     header{
         display: none;
     }
-
+    .third-first, .third-second , .third-third{
+        flex-direction: column;
+    }
+    #third-sec-para{
+        padding: 20px;
+    }
     
 }
