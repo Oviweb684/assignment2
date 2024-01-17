@@ -150,7 +150,8 @@ line-height: normal;
     color: black;
     font-size: 16px;
     font-weight: 400;
-    line-height: 26px; 
+    line-height: 26px;
+    margin-top: 0px; 
 }
 .third-first, .third-second , .third-third{
     display: flex;
@@ -194,4 +195,34 @@ font-weight: 800;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color:  rgba(19, 19, 24, 0.05);
+}
+.footer-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.last-image{
+    padding: 0px 40%;
+}
+hr{
+    width: 1100px;
 }
