@@ -50,5 +50,21 @@
     .fourth-left, .fourth-second, .fourth-right{
         max-width: 95%;
     }
-    
+    .sixth-section {
+        padding: 10px;
+        flex-direction: column;
+        margin: 0px;
+        width: 590px;
+    }
+
+    .sixth-right img{
+        width: 550px;
+        margin: 0px;
+        padding: 5px;
+    }
+    .sixth-left{
+        margin: 0px;
+        padding: 5px;
+
+    }
 }
