@@ -44,5 +44,11 @@
     #third-sec-para{
         padding: 20px;
     }
+    .fourth-first{
+        flex-direction: column;
+    }
+    .fourth-left, .fourth-second, .fourth-right{
+        max-width: 95%;
+    }
     
 }
